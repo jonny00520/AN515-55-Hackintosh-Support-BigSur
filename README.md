@@ -1,5 +1,7 @@
 # Acer AN515-55-521N 黑蘋果 支援最新BigSur
 
+![image-1](https://github.com/jonny00520/AN515-55-Hackintosh-Support-BigSur/blob/main/img.png)
+
 ### 硬體規格:
 
 
